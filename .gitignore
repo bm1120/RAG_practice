@@ -2,3 +2,5 @@ data/
 .env
 .venv/
 poetry.lock
+.DS_Store
+pyproject_mac.toml
