@@ -5,3 +5,4 @@ poetry.lock
 .DS_Store
 pyproject_mac.toml
 test_kg/
+kg_docs/
