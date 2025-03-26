@@ -6,3 +6,4 @@ poetry.lock
 pyproject_mac.toml
 test_kg/
 kg_docs/
+output/
